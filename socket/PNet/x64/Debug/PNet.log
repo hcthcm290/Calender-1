@@ -1,0 +1,5 @@
+﻿  IPEndpoint.cpp
+  Network.cpp
+  Socket.cpp
+  Source.cpp
+  PNet.vcxproj -> C:\github\socket\x64\Debug\PNet.lib
